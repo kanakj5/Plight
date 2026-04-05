@@ -1,6 +1,6 @@
-# plight_flutter
+# plight
 
-A new Flutter project.
+An innovation search engine project.
 
 ## Getting Started
 
